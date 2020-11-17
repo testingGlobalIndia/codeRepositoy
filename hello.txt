@@ -1,3 +1,0 @@
-this is yellow file
-this is yellow page
-this is conflict page
