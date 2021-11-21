@@ -3,3 +3,5 @@ this is test file
 this is conflict file
 
 this file has some changes
+
+hello this is new text with number 1231232432432432432423423423432432
